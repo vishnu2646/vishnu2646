@@ -19,9 +19,9 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 
 <div  align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDmubarak786&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu2646&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDmubarak786&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu2646&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
