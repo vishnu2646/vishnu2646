@@ -68,4 +68,4 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDMubarak786&" alt="MDmubarak786" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2646&" alt="vishnu2646" /></p>
