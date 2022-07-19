@@ -9,10 +9,10 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <h3>  💻 &nbsp; More About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Firebase.
+- 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Django.
 - 🌱 &nbsp; Always Learning more about React Native,Typescript and Functional Programming.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
-- 🎓 &nbsp; 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects
+- 🎓 &nbsp; 2021 Goals: Master React, Complete Full Stack. Contribute to Open Source projects
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 
 ## &#x1f4c8; My GitHub Stats
