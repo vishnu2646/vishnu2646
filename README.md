@@ -51,8 +51,8 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="mailto:mohammedmubarakmk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohammedmubarakmk@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/mohammed-mubarak-5bbb47169/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Mubarak%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:priyanvishnu15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-priyanvishnu15@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/vishnu-priyan0206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Mubarak%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/scooby_doo.mk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-scooby_doo.mk-blue?style=flat-square&logo=instagram"></a>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/profile.php?id=100022367763572)
