@@ -53,11 +53,11 @@ I'm a self-taught front-end web developer who is passionate about writing code, 
 <p>
 <a href="mailto:priyanvishnu15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-priyanvishnu15@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/vishnu-priyan0206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vishnu%priyan%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/scooby_doo.mk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-scooby_doo.mk-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/_code_br_eaker_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_code_br_eaker_-blue?style=flat-square&logo=instagram"></a>
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/profile.php?id=100022367763572)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+917904100495&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/MMubarakoo7)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/vishnu.priyan.1238)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+916369031601&text=Hi!)](https://api.whatsapp.com/send?phone=+6289604277425&text=Hi!)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/vishnuj0204)
 
 </p>
 
