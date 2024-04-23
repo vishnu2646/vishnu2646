@@ -1,10 +1,10 @@
 ###
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&size=24&lines=Hey+there,+I'm+Vishnupriyan;I'm+A+Software+Engineer.;Front-End+Developer.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=8803FC&size=24&lines=Hey+there,+I'm+Vishnupriyan;I'm+A+Software+Engineer.;Full-stack+Developer.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
 
 <!-- <h2>  Hi there! 👋 I'm Vishnu Priyan.</h2> -->
 
-I'm a self-taught front-end web developer who is passionate about writing code, solving problems, building react App and Flutter App.
+I'm a self-taught Full stack developer and Machine Leaning who is passionate about writing code, solving problems, building React and Angular Applications.
 
 <h3>  💻 &nbsp; More About Me </h3>
 
